@@ -1,6 +1,6 @@
 # Hi, I'm Sudheer Kumar 👋
 
- Aspiring AI Engineer | Data Scientist | Entrepreneur
+ Aspiring AI Engineer | Data Scientist
 
 I'm passionate about building AI-powered products that solve real-world business problems. My interests span Artificial Intelligence, Machine Learning, Data Science, Agentic AI Systems, and SaaS development.
 
